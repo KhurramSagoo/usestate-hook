@@ -1,3 +1,3 @@
 # usestate-hook
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-2wehmy)
+useState, useReducer hook with example
